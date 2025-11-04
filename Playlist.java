@@ -1,3 +1,4 @@
+package spotizer;
 import java.util.ArrayList;
 
 public class Playlist {
